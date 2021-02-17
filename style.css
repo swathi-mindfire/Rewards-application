@@ -3,6 +3,7 @@
     padding:0;
     font-family: 'Open Sans', sans-serif;
     color:black;
+    
 
 }
 
@@ -26,6 +27,7 @@
     background-color:rgba(255, 255, 255);
     margin:50px 35%;
     border-radius: 20px 20px 20px 20px;
+   
 
 }
 
@@ -34,7 +36,7 @@
     height: 40px;
     /*background-color: #f88800;*/
     border-radius: 20px 20px 0 0;
-    margin-bottom: 30px;
+    margin-bottom: 18px;
     margin-left: -180px;
     
 }
@@ -53,6 +55,7 @@
 .form{
     width: 100%;
     height:500px;
+    margin-top: -10px;
 }
 .name{
     font-size: 20px;
@@ -139,7 +142,7 @@
 
 }
 .gender{
-    margin:10px 0 0 5%;
+    margin:8px 0 0 5%;
     color:black;
     font-size:16px;
     font-weight:450;
@@ -196,8 +199,34 @@
 .checkgrp1{
     margin-top: -20px;
     margin-left: 120px;
+    
 }
 .checkgrp2{
     margin-top: 7px;
     margin-left: 120px;
+}
+.chk{
+    font-size: 14px;
+
+}
+.chkbox{
+    margin-left: 5px;
+    width: 10px;
+    height: 10px;
+}
+
+.addr{
+    margin-top: 15px;
+    margin-right:-15px;
+    margin-left: 18px;
+    text-align: center; 
+    padding-top: 20px;
+    
+}
+.res{
+    width: 135px;
+
+     margin-left: 18px;
+     margin-top: 10px;
+     margin-right:-15px;
 }
